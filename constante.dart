@@ -22,4 +22,9 @@ void main(){
 
   print('Mon père s\'appelle $monPere');
 
+  int a = 17;
+
+  dynamic categorie = (a>=18)? 'Vous êtes majeurs':'Vous êtes mineurs';
+  print(categorie);
+
 }
