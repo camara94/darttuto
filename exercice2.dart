@@ -3,7 +3,7 @@ void main()
   /**
    * Exercice 1
    * 
-   * Vérifier si un utilisateur est connecté, si il est connecté affiche son prénom.String
+   * Vérifier si un utilisateur est connecté, si il est connecté affiche son prénom en utilisant les map
    * sinon affiche un message qu'il n'est pas connecté 
    */
 
